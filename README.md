@@ -34,6 +34,7 @@ Now The api is ready to use!
 1. The big nummber must match to the php container in step 5.
 1. Run php artisan test
 1. ![alt text](/readme/images/unitest.jpg)
+1. You will see all results runing
 
 
 
