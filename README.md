@@ -42,4 +42,4 @@ If you want to test with *Postman*. You can import this [json](https://www.postm
 
 How to import a collection in postman go [here](https://kb.datamotion.com/?ht_kb=postman-instructions-for-exporting-and-importing).
 
-
+![alt text](/readme/images/postman.png)
