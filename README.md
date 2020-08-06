@@ -10,10 +10,12 @@
 4. Run docker-compose up, this will prepare our containers(this will take some time).
 5. Run docker containe ls, to see all runing containers.
 ![alt text](/readme/images/dockerls.jpg)
+
 6. Run the following command docker exec -it 63f6f9245b71  /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
 7. The big nummber must match to the php container in step 5.
 8. Now inside the container, run composer install.
-![alt text]((/readme/images/composerinstall.jpg)
+
+![alt text](/readme/images/composerinstall.jpg)
 
 
 
