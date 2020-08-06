@@ -36,6 +36,12 @@ Now The api is ready to use!
 1. ![alt text](/readme/images/unitest.jpg)
 1. You will see all results runing
 
+Extra
 
+If you want to test with postman, below, It is attached a json which you can import in Postman.
+
+https://www.postman.com/collections/721d55588fa26332f0c8
+
+How to import a collection in postman go here. https://kb.datamotion.com/?ht_kb=postman-instructions-for-exporting-and-importing
 
 
