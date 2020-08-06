@@ -21,8 +21,20 @@
 
 Now The api is ready to use!
 
-# Client Front End..
+# How to use the Client Front End
 
-1. Go to the proyect folder.
-2. Open index.html
+1. Go to the proyect folder and then app-frontend.
+1. Open index.html
 1. ![alt text](/readme/images/frontend.png)
+
+# Unit Test
+1. Run docker containe ls, to see all runing containers.
+1. ![alt text](/readme/images/dockerls.jpg)
+1. Run the following command docker exec -it 63f6f9245b71  /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+1. The big nummber must match to the php container in step 5.
+1. Run php artisan test
+1. ![alt text](/readme/images/unitest.jpg)
+
+
+
+
