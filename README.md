@@ -23,7 +23,7 @@ Now The api is ready to use!
 
 # How to use the Client Front End
 
-1. Go to the proyect folder and then *app-frontend*.
+1. Go to the proyect folder and then **app-frontend**.
 1. Open **index.html**
 1. ![alt text](/readme/images/frontend.png)
 
