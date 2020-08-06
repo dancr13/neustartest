@@ -45,7 +45,7 @@ How to import a collection in postman go [here](https://kb.datamotion.com/?ht_kb
 ![alt text](/readme/images/postman.png)
 
 # Files to keep in mind
-Just in case, here are a list of the most important files for this test.
+Just in case, there is a list of the most important files for this test.
 
 1. routes/api.php
 1. app/Http/Controllers/DomainController.php
