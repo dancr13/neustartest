@@ -16,6 +16,13 @@
 1. ![alt text](/readme/images/composerinstall.jpg)
 1. Just in case run, composer update and composer dumpa.
 1. Run php artisan migrate:refresh
+1. Open a browser and go to localhost
+1. ![alt text](/readme/images/localhost.jpg)
 
+Now The api is ready to use!
 
+# Client Front End..
 
+1. Go to the proyect folder.
+2. Open index.html
+1. ![alt text](/readme/images/frontend.png)
