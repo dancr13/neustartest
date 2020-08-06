@@ -1,6 +1,6 @@
 
 # Dependencies 
-1. Docker
+1. Docker(prefelly the most current version)
 
 # Installation.
 
@@ -11,7 +11,7 @@
 1. Run **docker containe ls**, to see all runing containers.
 1. ![alt text](/readme/images/dockerls.jpg)
 1. Run the following command **docker exec -it 63f6f9245b71  /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"**
-1. The number must match to the php container in **step 5**.
+1. The number must match to the php container in **step 6**.
 1. Now inside the container, **run composer install**.
 1. ![alt text](/readme/images/composerinstall.jpg)
 1. Just in case run, **composer update** and **composer dumpa**.
