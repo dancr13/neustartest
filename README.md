@@ -43,3 +43,15 @@ If you want to test with *Postman*. You can import this [json](https://www.postm
 How to import a collection in postman go [here](https://kb.datamotion.com/?ht_kb=postman-instructions-for-exporting-and-importing).
 
 ![alt text](/readme/images/postman.png)
+
+# Files to keep in mind
+Just in case, here are a list of the most important files for this test.
+
+1. routes/api.php
+1. app/Http/Controllers/DomainController.php
+1. app/Domains.php
+1. tests/Feature/DomainsTest.php
+1. database/database.sqlite
+1. docker-compose.yml
+1. app-frontend
+1. database/migrations/2020_08_05_041635_create_domains_table.php
