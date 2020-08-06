@@ -18,7 +18,9 @@
 
 ![alt text](/readme/images/composerinstall.jpg)
 
-
+9. Just in case run, composer update and composer dumpa.
+10. Now the below is ready Run artisan migrate:refresh
+11. Run php artisan migrate:refresh
 
 
 
