@@ -4,8 +4,8 @@
 
 # Installation.
 
-1. Go to preferred folder a clone this protect.
-1. git clone https://github.com/dbogarin/neustartest.git
+1. Clone this protect.
+1. **git clone https://github.com/dbogarin/neustartest.git**
 1. Open a terminal and go to the repo folder neustarttest.
 1. Run docker-compose up, this will prepare our containers(this will take some time).
 1. Run docker containe ls, to see all runing containers.
