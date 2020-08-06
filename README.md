@@ -9,6 +9,7 @@
 3. Open a terminal and go to the repo folder neustarttest.
 4. Run docker-compose up, this will prepare our containers(this will take some time).
 5. Run docker containe ls, to see all runing containers.
+
 ![alt text](/readme/images/dockerls.jpg)
 
 6. Run the following command docker exec -it 63f6f9245b71  /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
